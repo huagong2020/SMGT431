@@ -1,4 +1,4 @@
 # SMGT431
 
-1. This file contains NFL and NBA player tracking data that I collected over the past few years.
+1. This repository contains data sets for various projects and assignemtns in SMGT 431.
 
